@@ -1,0 +1,12 @@
+#
+# EmeraldFreedomMod 5.0 Admin List
+#
+
+DUFC_Liam:
+  username: DUFC_Liam
+  active: true
+  rank: SENIOR_ADMIN
+  ips:
+  - 0.0.0.0
+  last_login: Mon, 1 January 2016 00:00:00 +0000
+  login_message: 'the &dOwner&b.'
